@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='kiga_plugin',
-    version='0.0.1',
+    version='0.0.2',
     description='plugin loader using pkg_resources.',
     author='succhiello',
     author_email='succhiello@gmail.com',
